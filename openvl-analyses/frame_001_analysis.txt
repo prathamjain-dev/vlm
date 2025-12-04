@@ -1,0 +1,14 @@
+==================================================
+FRAME ANALYSIS - t_v002_converted
+==================================================
+
+Frame Number: 1
+Time Stamp: 0.00 seconds
+Frame File: frame_001_0.0s.jpg
+
+Question: At 0.0 seconds: What is happening in this video, if there is a fight happening then mark it 'ALERT
+
+Answer:
+At 0.0 seconds, the video shows a person in the middle of a store aisle gesturing with their hands, while two other people are standing nearby. It doesn't appear to be a fight; it looks more like a conversation or an explanation. I would not mark it as an "ALERT."
+
+==================================================

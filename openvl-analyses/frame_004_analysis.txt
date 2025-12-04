@@ -1,0 +1,14 @@
+==================================================
+FRAME ANALYSIS - t_v002_converted
+==================================================
+
+Frame Number: 4
+Time Stamp: 6.50 seconds
+Frame File: frame_004_6.5s.jpg
+
+Question: At 6.5 seconds: What is happening in this video, if there is a fight happening then mark it 'ALERT
+
+Answer:
+At 6.5 seconds, it appears that a fight is happening in the video. I'll mark it as 'ALERT'.
+
+==================================================
